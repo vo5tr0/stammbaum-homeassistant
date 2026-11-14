@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.36
+
+- Handy: die Generationsbezeichnungen links im Baum sind wieder zu sehen. Sie stehen jetzt in der Lücke über der jeweiligen Reihe, damit sie keine Karte verdecken. Weit herausgezoomt bleiben es dünne Striche.
+
 ## 0.1.35
 
 - Ganzer Baum / Verbundene Bäume: die Anordnung achtet wieder auf kurze Linien und eine kompakte Breite, statt die Generationen treppenartig auseinanderzuziehen.
