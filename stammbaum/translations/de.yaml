@@ -1,0 +1,13 @@
+configuration:
+  tree_name:
+    name: Name des Stammbaums
+    description: Wird nur beim ersten Start verwendet. Später in der App unter Verwaltung änderbar.
+  default_role:
+    name: Rolle für alle Home-Assistant-Benutzer
+    description: "reader = nur ansehen, editor = bearbeiten. Gilt für den ersten Stammbaum beim ersten Start; danach in der App unter Verwaltung pro Baum einstellbar."
+  admins:
+    name: Verwalter
+    description: Benutzernamen (Login-Namen) von Home-Assistant-Benutzern, die Verwalter sind. Leer lassen, dann wird der erste Benutzer, der den Stammbaum öffnet, Verwalter.
+  geocoding:
+    name: Orte auf der Karte suchen
+    description: Schlägt Orte bei OpenStreetMap nach, damit sie auf der Weltkarte erscheinen. Dabei werden nur Ortsnamen übertragen.

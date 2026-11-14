@@ -1,0 +1,13 @@
+configuration:
+  tree_name:
+    name: Tree name
+    description: Only used on first start. Can be changed later in the app (Verwaltung).
+  default_role:
+    name: Role for all Home Assistant users
+    description: "reader = view only, editor = can edit. Applies to the first tree on first start; change per tree in the app afterwards."
+  admins:
+    name: Administrators
+    description: Login names of Home Assistant users who administer the app. If empty, the first user to open the app becomes administrator.
+  geocoding:
+    name: Look up places for the map
+    description: Looks up place names on OpenStreetMap so they show on the world map. Only place names are sent.
