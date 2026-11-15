@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.38
+
+- Ahnen-Ansicht: mit der Maus über eine Person fahren zeigt jetzt wie im Stammbaum die Detailkarte (Verwandtschaft, Lebensdaten, Orte).
+
 ## 0.1.37
 
 - Generationsleiste: beim Zoomen gehen die Bezeichnungen fließend in die Striche über und bleiben dabei an derselben Stelle, statt zu springen.
