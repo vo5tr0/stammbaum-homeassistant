@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.1.40
+
+- Die linke Leiste lässt sich einklappen (Knopf oben in der Leiste oder Taste „["). Eingeklappt bleibt ein schmaler Streifen mit dem Baum-Zeichen und den Ansichten als senkrechte Wörter. Der Zustand wird pro Browser gemerkt.
+- Stammbaum, Ahnen, Zeitstrahl und Karte laden Änderungen automatisch nach, etwa nach einem Import oder wenn jemand anderes etwas einträgt. Ausschnitt und Zoom bleiben dabei stehen.
+
 ## 0.1.39
 
 - Personenseite: Bilder und PDFs lassen sich per Drag and Drop hochladen. Auf das Porträt gezogen wird das erste Bild zum Porträt, sonst landen die Dateien bei den Bildern und Dokumenten (hat die Person noch kein Porträt, wird das erste Bild dazu).
