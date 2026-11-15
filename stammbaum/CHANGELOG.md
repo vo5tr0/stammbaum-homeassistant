@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.39
+
+- Personenseite: Bilder und PDFs lassen sich per Drag and Drop hochladen. Auf das Porträt gezogen wird das erste Bild zum Porträt, sonst landen die Dateien bei den Bildern und Dokumenten (hat die Person noch kein Porträt, wird das erste Bild dazu).
+
 ## 0.1.38
 
 - Ahnen-Ansicht: mit der Maus über eine Person fahren zeigt jetzt wie im Stammbaum die Detailkarte (Verwandtschaft, Lebensdaten, Orte).
