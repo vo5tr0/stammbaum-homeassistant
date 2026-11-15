@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.44
+
+- Ganzer Baum: Die Familie des Partners der zentrierten Person bekommt einen eigenen Block rechts neben Vater- und Mutterlinie, statt sich dazwischenzuschieben. Die Aufteilung richtet sich immer nach der gerade zentrierten Person.
+
 ## 0.1.43
 
 - Personenseite: sichtbares Ablagefeld „Dateien hierher ziehen“ unter „Bilder und Dokumente“. Klicken öffnet die Dateiauswahl, mehrere Dateien auf einmal gehen.
