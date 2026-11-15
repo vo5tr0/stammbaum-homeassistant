@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.47
+
+- Stammbaum und Ahnen: Beim Drüberfahren zeigt die Infokarte das Porträt der Person groß an. Läuft die Karte dadurch unten aus dem Bild, rückt sie nach oben.
+
 ## 0.1.46
 
 - Duplikaterkennung für alle Uploads: Eine Datei, die im Stammbaum schon vorhanden ist (bytegleich), wird nicht noch einmal gespeichert, egal ob sie über die Galerie, die Personenseite oder „Dokumente“ kommt. Gehört der Upload zu einer Person, wird die vorhandene Datei mit ihr verknüpft. Die Seite sagt, welche Dateien schon da waren.
