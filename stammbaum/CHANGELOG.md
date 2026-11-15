@@ -1,5 +1,15 @@
 # Änderungen
 
+## 0.1.49
+
+- Recherche-Import: Nennt eine Quelle dasselbe Datum für Geburt oder Tod wie ein noch unbestätigter Eintrag, ergänzt der Import nur den fehlenden Ort und die Quelle. Es entsteht kein zweites Ereignis.
+
+## 0.1.48
+
+- Einheitliches Bildformat: Jedes hochgeladene Bild wird als JPEG gespeichert (sRGB, richtig herum gedreht, längste Kante höchstens 4000 Pixel, Qualität 90). Aufnahmedaten (EXIF) bleiben erhalten. Gespeichert wird nur diese Fassung, die hochgeladene Datei selbst nicht. Ein JPEG, das schon so vorliegt, bleibt unverändert; animierte GIFs und alle Dokumente ebenfalls.
+- Bereits vorhandene Bilder werden beim ersten Start einmalig im Hintergrund umgewandelt, die bisherigen Dateien danach entfernt. Vor dem Update bitte ein Backup des Datenordners anlegen.
+- Uploads dürfen jetzt bis 200 MB groß sein (vorher 25 MB), damit auch große TIFF-Scans hineinpassen.
+
 ## 0.1.47
 
 - Stammbaum und Ahnen: Beim Drüberfahren zeigt die Infokarte das Porträt der Person groß an. Läuft die Karte dadurch unten aus dem Bild, rückt sie nach oben.
