@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.1.42
+
+- Neu: Galerie (unter „Mehr“). Viele Fotos auf einmal hochladen, etwa einen Ordner digitalisierter Dias: per Drag and Drop oder über „Fotos hochladen“. Schon vorhandene Dateien werden erkannt und nicht doppelt gespeichert.
+- Gesichter werden auf den Fotos automatisch gefunden und als Vorschlag eingerahmt. Die Suche läuft auf dem eigenen Server, es wird nichts an fremde Dienste geschickt. Du wählst nur noch den Namen; fehlende Gesichter rahmst du mit der Maus (oder nach „Gesicht einrahmen“ mit dem Finger) selbst ein.
+- Markierte Fotos erscheinen auf der Personenseite. Ein markiertes Gesicht lässt sich mit einem Klick als Porträt der Person übernehmen.
+- Galerie filtern: nach Person, ohne Personen, mit offenen Gesichtern; Suche nach Titel, Datum und Namen.
+
 ## 0.1.40
 
 - Die linke Leiste lässt sich einklappen (Knopf oben in der Leiste oder Taste „["). Eingeklappt bleibt ein schmaler Streifen mit dem Baum-Zeichen und den Ansichten als senkrechte Wörter. Der Zustand wird pro Browser gemerkt.
