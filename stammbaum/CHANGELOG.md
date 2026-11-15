@@ -1,5 +1,11 @@
 # Änderungen
 
+## 0.1.50
+
+- Stammbaum und Ahnen: Die Karte einer angeklickten Person lässt sich mit Esc schließen.
+- Recherche-Import: Ein genaueres Heiratsdatum präzisiert eine noch unbestätigte Heirat, statt eine zweite anzulegen.
+- Hat eine Person mehrere Partnerschaften und nennt ein Fund nicht, welche gemeint ist, meldet der Import das als Fehler, statt die Heirat an eine beliebige Partnerschaft zu hängen.
+
 ## 0.1.49
 
 - Recherche-Import: Nennt eine Quelle dasselbe Datum für Geburt oder Tod wie ein noch unbestätigter Eintrag, ergänzt der Import nur den fehlenden Ort und die Quelle. Es entsteht kein zweites Ereignis.
