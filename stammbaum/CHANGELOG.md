@@ -1,5 +1,11 @@
 # Änderungen
 
+## 0.1.45
+
+- Die Galerie steht jetzt im Hauptmenü (auf dem iPhone als „Fotos“ in der Tableiste).
+- Galerie: Die ganze Seite ist ein Ablagefeld. Oben steht ein sichtbares Feld „Fotos hierher ziehen“ (auch zum Anklicken), beim Ziehen wird die Seite eingerahmt.
+- Foto: Der Knopf „Gesicht einrahmen“ ist auch am Rechner sichtbar. Wie bisher lässt sich ein Rahmen auch direkt mit der Maus ziehen.
+
 ## 0.1.44
 
 - Ganzer Baum: Die Familie des Partners der zentrierten Person bekommt einen eigenen Block rechts neben Vater- und Mutterlinie, statt sich dazwischenzuschieben. Die Aufteilung richtet sich immer nach der gerade zentrierten Person.
