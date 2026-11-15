@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.1.46
+
+- Duplikaterkennung für alle Uploads: Eine Datei, die im Stammbaum schon vorhanden ist (bytegleich), wird nicht noch einmal gespeichert, egal ob sie über die Galerie, die Personenseite oder „Dokumente“ kommt. Gehört der Upload zu einer Person, wird die vorhandene Datei mit ihr verknüpft. Die Seite sagt, welche Dateien schon da waren.
+- Ältere Dateien bekommen beim Start einmalig nachträglich ihren Fingerabdruck, damit die Erkennung auch für sie gilt. Schon vorhandene doppelte Dateien bleiben unverändert.
+
 ## 0.1.45
 
 - Die Galerie steht jetzt im Hauptmenü (auf dem iPhone als „Fotos“ in der Tableiste).

@@ -1,7 +1,7 @@
 # Home Assistant add-on. Source: the private Stammbaum repo (homeassistant/addon-repo). On each release tag CI copies it
 # to the public add-on repo and sets "version" from the tag, so the value here needs no maintenance.
 name: Stammbaum
-version: "0.1.45"
+version: "0.1.46"
 slug: stammbaum
 description: Familienstammbaum mit Fotos, Ereignissen, Quellen, Zeitstrahl und Karte
 url: https://github.com/vo5tr0/stammbaum-homeassistant
