@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.1.51
+
+- Ganzer Baum: Die Äste rücken so dicht zusammen, wie es geht, ohne dass sich einer in einen anderen schiebt. Der Baum wird dadurch deutlich schmaler, und die Linien werden kürzer.
+- Die eigene Ahnenlinie bleibt kurz und steht mittig zwischen den Familien von Vater und Mutter; Geschwister stehen dicht unter ihren Eltern.
+- Eltern von Angeheirateten und Gruppen ohne belegte Verbindung bleiben bei ihrem Zweig, statt zwischen fremde Familien zu rutschen.
+- Verbundene Bäume: Die Ansicht passt sich an, sobald der zweite Baum geladen ist. Passt der ganze Baum nicht auf den Bildschirm, steht die eigene Person im Blick.
+
 ## 0.1.50
 
 - Stammbaum und Ahnen: Die Karte einer angeklickten Person lässt sich mit Esc schließen.
