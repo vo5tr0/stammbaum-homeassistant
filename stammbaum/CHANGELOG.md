@@ -1,5 +1,13 @@
 # Änderungen
 
+## 0.1.43
+
+- Personenseite: sichtbares Ablagefeld „Dateien hierher ziehen“ unter „Bilder und Dokumente“. Klicken öffnet die Dateiauswahl, mehrere Dateien auf einmal gehen.
+- Neben Bildern und PDF lassen sich jetzt auch Word, Excel, OpenDocument, Text, Audio (MP3, M4A, WAV) und Video (MP4, MOV) hochladen. Eine abgelehnte Datei wird gemeldet, die übrigen werden trotzdem hochgeladen.
+- Dokument-Kacheln zeigen die Dateiendung (DOCX, TXT …).
+- Ganzer Baum: Die Linie des Vaters steht in jeder Generation links von der Linie der Mutter; Zweige rutschen nicht mehr in die andere Seite.
+- Ahnen-Ansicht: Konten ohne verknüpfte Person sahen immer dieselbe Person (die erste im Baum). Jetzt startet sie bei der zuletzt im Stammbaum zentrierten Person, sonst bei der jüngsten Person mit den meisten Vorfahren.
+
 ## 0.1.42
 
 - Neu: Galerie (unter „Mehr“). Viele Fotos auf einmal hochladen, etwa einen Ordner digitalisierter Dias: per Drag and Drop oder über „Fotos hochladen“. Schon vorhandene Dateien werden erkannt und nicht doppelt gespeichert.
