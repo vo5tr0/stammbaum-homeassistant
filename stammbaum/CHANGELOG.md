@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.37
+
+- Generationsleiste: beim Zoomen gehen die Bezeichnungen fließend in die Striche über und bleiben dabei an derselben Stelle, statt zu springen.
+
 ## 0.1.36
 
 - Handy: die Generationsbezeichnungen links im Baum sind wieder zu sehen. Sie stehen jetzt in der Lücke über der jeweiligen Reihe, damit sie keine Karte verdecken. Weit herausgezoomt bleiben es dünne Striche.
