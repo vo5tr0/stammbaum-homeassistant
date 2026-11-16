@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.1.55
+
+- Stammbaum: Der grüne Pfad zieht sich als ein durchgehender Strich von der angeklickten Karte bis zur Person in der Mitte, statt Stück für Stück zwischen den Karten.
+- Ahnen: Der Fächer öffnet sich jetzt auch beim Aufrufen der Ansicht Ring für Ring, nicht nur beim Wechsel der Person.
+
 ## 0.1.54
 
 - iPhone: Die Personenkarte im Stammbaum öffnet zugeklappt (Name, Jahre, Verwandtschaft, Knöpfe in einer Zeile). Ein Tipp auf den Kopf der Karte zeigt die Details.
