@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.56
+
+- Schmale Leiste: Die grüne Markierung gleitet jetzt vom alten zum neuen Menüpunkt, statt kurz von der falschen Seite hereinzurutschen.
+
 ## 0.1.55
 
 - Stammbaum: Der grüne Pfad zieht sich als ein durchgehender Strich von der angeklickten Karte bis zur Person in der Mitte, statt Stück für Stück zwischen den Karten.
