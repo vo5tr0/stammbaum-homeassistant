@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.52
+
+- Copyright-Hinweis „© 2026 Julian Bendig“ unten in der linken Leiste, auf dem iPhone unter „Mehr“.
+
 ## 0.1.51
 
 - Ganzer Baum: Die Äste rücken so dicht zusammen, wie es geht, ohne dass sich einer in einen anderen schiebt. Der Baum wird dadurch deutlich schmaler, und die Linien werden kürzer.
