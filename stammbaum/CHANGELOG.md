@@ -1,5 +1,17 @@
 # Änderungen
 
+## 0.1.53
+
+- Stammbaum: Beim Zentrieren, Aufklappen und „Ganzer Baum“ gleiten die Karten an ihren neuen Platz, neue Karten kommen aus einem Verwandten heraus. Die Generationsleiste fährt mit.
+- Ein Klick auf eine Karte zeichnet den grünen Pfad bis zur Person in der Mitte.
+- Ahnen: Der Fächer öffnet sich Ring für Ring von innen nach außen; weitere Generationen wachsen dazu.
+- Zeitstrahl: Beim Filtern rutschen die Zeilen an ihren neuen Platz.
+- Karte: „Wanderung abspielen“ zeichnet die Wege nacheinander ein, Orte erscheinen, wenn dort etwas geschieht.
+- Das Porträt fliegt von der Karte oder Liste an seinen Platz auf der Personenseite; Ansichten blenden beim Wechsel kurz über.
+- Hover-Karte, Personenblatt, Dialoge und Suchfeld blenden kurz ein.
+- Menü: Die grüne Markierung gleitet zum neuen Eintrag, die Leiste klappt weich auf und zu, Hell/Dunkel blendet über.
+- Mit „Bewegung reduzieren“ im System bleibt alles still.
+
 ## 0.1.52
 
 - Copyright-Hinweis „© 2026 Julian Bendig“ unten in der linken Leiste, auf dem iPhone unter „Mehr“.
