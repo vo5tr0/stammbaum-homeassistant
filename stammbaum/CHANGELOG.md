@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.54
+
+- iPhone: Die Personenkarte im Stammbaum öffnet zugeklappt (Name, Jahre, Verwandtschaft, Knöpfe in einer Zeile). Ein Tipp auf den Kopf der Karte zeigt die Details.
+
 ## 0.1.53
 
 - Stammbaum: Beim Zentrieren, Aufklappen und „Ganzer Baum“ gleiten die Karten an ihren neuen Platz, neue Karten kommen aus einem Verwandten heraus. Die Generationsleiste fährt mit.
