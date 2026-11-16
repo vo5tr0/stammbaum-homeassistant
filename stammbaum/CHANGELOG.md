@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.58
+
+- Galerie: Eine Person, die schon ohne Rahmen mit einem Foto verknüpft ist, lässt sich jetzt bei „Wer ist das?“ auswählen. Die Verknüpfung ohne Rahmen wird dabei zur Gesichtsmarkierung.
+
 ## 0.1.57
 
 - Galerie: Wird jemand auf einem Foto markiert und hat noch kein Porträt, wird der Ausschnitt dieser Markierung automatisch das Porträt. Wer schon eines hat, behält es; „als Porträt“ tauscht es weiterhin gezielt aus. Für bereits vorhandene Markierungen wird das beim Start nachgeholt.
