@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.1.57
+
+- Galerie: Wird jemand auf einem Foto markiert und hat noch kein Porträt, wird der Ausschnitt dieser Markierung automatisch das Porträt. Wer schon eines hat, behält es; „als Porträt“ tauscht es weiterhin gezielt aus. Für bereits vorhandene Markierungen wird das beim Start nachgeholt.
+
 ## 0.1.56
 
 - Schmale Leiste: Die grüne Markierung gleitet jetzt vom alten zum neuen Menüpunkt, statt kurz von der falschen Seite hereinzurutschen.
